@@ -1,0 +1,10 @@
+<library path="sim_destination_panel">
+  <class
+    name="sim_rviz_plugins/SimDestinationPanel"
+    type="sim_rviz_plugins::SimDestinationPanel"
+    base_class_type="rviz_common::Panel">
+    <description>
+      Painel RViz2 com botoes para publicar destinos no topico /destination.
+    </description>
+  </class>
+</library>
